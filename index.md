@@ -8,3 +8,9 @@
 this is normal text.
 
 ![Jolly Roger of the Straw Hat Pirates](https://i.pinimg.com/564x/7f/bc/2d/7fbc2d8a6a1283a2ef8bae0586310fc2.jpg)
+
+
+``` Python
+myVar = "Hello World"
+print(myVar)
+```
