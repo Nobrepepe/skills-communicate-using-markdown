@@ -14,3 +14,7 @@ this is normal text.
 myVar = "Hello World"
 print(myVar)
 ```
+
+- [X] Create a task list
+- [ ] Learn Markdown
+- [ ] Learn Github workflows
